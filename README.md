@@ -38,6 +38,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/af678a36-c04c-470e-92a3-79149f5db71b)
 
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/c921a6e6-eff3-427c-9935-7b614fba1060)
+![image](https://github.com/bradgarton13/post-install-config/assets/166873905/8118e0ab-1eca-4c9b-9ef8-990908508768)
+
 
 </p>
 <p>
