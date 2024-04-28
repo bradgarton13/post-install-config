@@ -23,11 +23,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create a new role, department, and team inside the Admin Panel of osTicket.
+- Create two new agents and assign them to different departments.
+- Create two new end-users in the Agent Panel
+- Create three new SLA's in the Admin Panel
+
 
 <h2>Configuration Steps</h2>
 
@@ -36,7 +36,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/838d9f4d-3fbe-47c1-870a-b1ef3af59fd5)
 
 Inside the Admin Panel of osTicket I have navigated to Agents > Roles and created a new role known as Supreme Admin.
-
 
 
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/af678a36-c04c-470e-92a3-79149f5db71b)
@@ -56,7 +55,7 @@ Jane will be a system administrator in this case with the Supreme Admin role. Jo
 
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/5e7498eb-ae76-4b8b-aabc-2531cb46f236)
 
-Here I have created a view end users with the names Ken and Karen. They will be used to create and view tickets.
+After navigating to the Agent Panel, I have created a view end-users with the names Ken and Karen. They will be used to create and view tickets.
 
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/10db2b3c-9a5a-46ff-b9d3-277d63127903)
 
