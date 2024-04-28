@@ -55,28 +55,10 @@ Jane will be a system administrator in this case with the Supreme Admin role. Jo
 
 
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/5e7498eb-ae76-4b8b-aabc-2531cb46f236)
+
+Here I have created a view end users with the names Ken and Karen. They will be used to create and view tickets.
+
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/10db2b3c-9a5a-46ff-b9d3-277d63127903)
-![image](https://github.com/bradgarton13/post-install-config/assets/166873905/06539fbe-516c-43be-9c1c-8b8ae0e09c43)
 
+Lastly, Ive created a few Service-Level agreements. I've three SLA's that each have differing levels of severity. SEV-A will be for most severe tickets with a grace period of 1 hour and schedule of 24/7, meaning the agents will have to address the ticket within 1 hour of creation on any day/ hour of the week. SEV-B will have a grace period of 4 hours on the same 24/7 schedule, and SEV-C will have a 8 hour grace period with a 24hr/ 5-day schedule.
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
