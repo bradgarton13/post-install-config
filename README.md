@@ -35,10 +35,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/838d9f4d-3fbe-47c1-870a-b1ef3af59fd5)
 
+Inside the Admin Panel of osTicket I have navigated to Agents > Roles and created a new role known as Supreme Admin.
+
+
+
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/af678a36-c04c-470e-92a3-79149f5db71b)
 
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/c921a6e6-eff3-427c-9935-7b614fba1060)
 ![image](https://github.com/bradgarton13/post-install-config/assets/166873905/8118e0ab-1eca-4c9b-9ef8-990908508768)
+![image](https://github.com/bradgarton13/post-install-config/assets/166873905/07b96e49-bf6e-45bc-8bc1-d0358b0b6445)
+![image](https://github.com/bradgarton13/post-install-config/assets/166873905/5e7498eb-ae76-4b8b-aabc-2531cb46f236)
+![image](https://github.com/bradgarton13/post-install-config/assets/166873905/10db2b3c-9a5a-46ff-b9d3-277d63127903)
+![image](https://github.com/bradgarton13/post-install-config/assets/166873905/06539fbe-516c-43be-9c1c-8b8ae0e09c43)
 
 
 </p>
