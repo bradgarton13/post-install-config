@@ -32,7 +32,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/bradgarton13/post-install-config/assets/166873905/838d9f4d-3fbe-47c1-870a-b1ef3af59fd5)
+
+![image](https://github.com/bradgarton13/post-install-config/assets/166873905/af678a36-c04c-470e-92a3-79149f5db71b)
+
+![image](https://github.com/bradgarton13/post-install-config/assets/166873905/c921a6e6-eff3-427c-9935-7b614fba1060)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
